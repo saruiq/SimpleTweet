@@ -4,6 +4,8 @@ SimpleTweet is an android app that allows a user to view his Twitter timeline an
 
 Time spent: 20 hours spent in total
 
+## Part 2
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -35,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -65,6 +67,8 @@ Some challenges I face with this project is alongside the usual issue of Android
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Part 1
 
 ## User Stories
 
